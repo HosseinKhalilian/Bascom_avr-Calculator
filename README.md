@@ -1,4 +1,4 @@
-# Bascom_avr-Calculator
+AVR Calculator
 
 <p align="center">
 <img src="./Pic.jpg" height="240">
